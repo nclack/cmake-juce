@@ -8,7 +8,7 @@ The aim here is to develop a set of CMake files that can be added to the modules
 ### Instructions
 
 1.  Create a new static library project using *The Introjucer*.  Install the modules to something like <tt>myproject/juce</tt>.
-2.  Checkout this repository (or just copy the files) to: <tt>myproject/juce</tt>
+2.  Copy the files in this repository to: <tt>myproject/juce</tt>
 3.  Update the parent project's <tt>CMakeLists.txt</tt>.
 
 You should end up with a directory structure that looks like:
